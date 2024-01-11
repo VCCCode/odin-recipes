@@ -1,0 +1,32 @@
+* {
+    background-color: #FAD7A0;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+#page-title {
+    font-size: 32px;
+    font-weight: bold;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+
+}
+
+.title {
+    font-size: 24px;
+    text-decoration: underline;
+}
+
+p {
+    font-size: 16px;
+    color: rgb(48, 48, 48);
+}
+
+.list {
+    font-size: 14px;
+    color: rgb(48, 48, 48);
+}
+
+.subtitle {
+    font-size: 20px;
+    text-decoration: dashed underline 1px;
+    font-weight: 500;
+}
